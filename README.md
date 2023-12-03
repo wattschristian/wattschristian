@@ -1,22 +1,20 @@
 ---
 # Christian Watts
-Hi! My name is Christian and I am currently a CS student at University of Central Arkansas.  I have a strong love for anything and everything programming/tech,
-and I'm wanting to pursue a career in Software Engineering/Fullstack Development. Data Science is becoming increasingly attractive however... I like learning about circuits
-and hardware, cybersecurity topics, and robotics as well!
+Hi! My name is Christian and I am currently a CS student at the University of Missouri Columbia. I have a strong love for anything and everything programming/tech,
+and I'm wanting to pursue a career in Software Engineering/Fullstack Development. 
 
-## Experience
-My language experience is broken into Proficient and Knowledgeable experience levels:
-
+## Experience:
 #### Proficient
+- C#/C++
 - Java
-- C++
-- Python
+- JavaScript
+- Frontend Technologies (HTML/CSS)
+- SQL
 
 #### Knowledgeable
-- JavaScript (React)
-- HTML
-- CSS
-- SQL
+-  Python
+-  C
+-  Assembly
 
 
 
