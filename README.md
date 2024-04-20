@@ -5,15 +5,15 @@ and I'm wanting to pursue a career in Software Engineering/Fullstack Development
 
 ## Experience:
 #### Proficient
-- C#/C++
+- C/C++/C#
 - Java
-- JavaScript
-- Frontend Technologies (HTML/CSS)
+- Python
+- JavaScript (And frameworks)
+- Frontend Languages (HTML/CSS)
 - SQL
+- .NET Core/ASP.NET
 
 #### Knowledgeable
--  Python
--  C
 -  Assembly
 
 
