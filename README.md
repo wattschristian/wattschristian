@@ -8,9 +8,10 @@ and I'm wanting to pursue a career in Software Engineering/Fullstack Development
 - C/C++/C#
 - Java
 - Python
-- JavaScript (React, Node, Vue frameworks)
-- Frontend Languages (HTML/CSS)
-- SQL
+- JavaScript (React, Angular, Express, NodeJS)
+- TypeScript
+- HTML/CSS
+- SQL/NoSQL (Oracle, SQL Server, MongoDB)
 - .NET Core/ASP.NET
 
 #### Knowledgeable
